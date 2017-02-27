@@ -1,3 +1,4 @@
-Used unity engine to create an Apartment scene and used Google VR to finish the project.
-Managed to Create several chairs and tables. Also a globe animation. 
+A simple introductory VR project. Simple text and a few buttons.
+Created 5 buttons each providing a different functionality using unity scripts.
+there are a .apk file for Android Phones
 to Work with it should import GoogleVR for Unity before Run
